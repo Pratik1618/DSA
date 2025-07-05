@@ -46,5 +46,6 @@ printList(head);
 
 const reversedHead = reverseLinkedList(head);
 
+
 console.log("Reversed list:");
 printList(reversedHead);
